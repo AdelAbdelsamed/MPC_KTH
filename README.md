@@ -28,8 +28,4 @@ In addition to the homework assignments, the project work entails:
   - Exploring a Nonlinear Model Predictive Control (NMPC) approach for the trajectroy planning of the Astrobee Rendezvous.
   - Evaluating the performance of the NMPC in simulations.
 
-## License
 
-This project is under the [MIT License](LICENSE) - feel free to use, modify, and share it as needed.
-
-Best of luck with your Model Predictive Control journey with NASA's Astrobee in the EL2700 course at KTH (Autumn 2023)!
