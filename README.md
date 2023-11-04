@@ -1,4 +1,3 @@
-# MPC_KTH
 # Model Predictive Control - EL2700 (Autumn 2023)
 
 Repository for the Model Predictive Control (MPC) coursework. This repository contains the code and resources for the course assignments and the final project work for the EL2700 course at KTH in the autumn term of 2023.
